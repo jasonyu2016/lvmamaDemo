@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      msg: '新闻'
+      msg: '我的'
     }
   }
 }
